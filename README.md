@@ -1,8 +1,6 @@
 
 # NodeJS-FileSystem-Task
 
-It's my first Backend Server/API task which was designed using node and express. It's Guvi-Zen class Roadmap session: Day-37 and Nodejs- Day -1 Task.
-
 ## Tech Stack
 
 - fs
@@ -51,6 +49,3 @@ Open [http://localhost:3333](http://localhost:3333) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Feedback
-
-If you have any feedback, please reach out to me at vijaymayhul@gmail.com
