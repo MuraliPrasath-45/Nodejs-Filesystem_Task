@@ -26,15 +26,6 @@ I used Postman to test my api endpoints are working fine.
 
 [NodeJS-FileSystem-Task](https://nodejs-filesystem-10e7.onrender.com/)
 
-
-## API Documentation
-
-[Click here to view API Documentation](https://documenter.getpostman.com/view/24200691/2sA2xcaacf)
-
-## Screenshots
-
-![App Screenshot](./Images/demo.png)
-
 ## Setup
 
 Followig are the requirements to run this project:
